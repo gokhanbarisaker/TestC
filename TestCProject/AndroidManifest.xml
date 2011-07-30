@@ -13,6 +13,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
+		<activity 
+			android:name=".MainMenu"
+			android:label="@string/main_menu_label"
+		/>
+		<activity 
+			android:name=".LanguageSelector"
+			android:label="@string/language_selector_label"
+		/>
+		<activity 
+			android:name=".RestaurantMenu"
+			android:label="@string/restaurant_menu_label"
+		/>
     </application>
 </manifest>
