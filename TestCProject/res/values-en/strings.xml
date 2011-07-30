@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Client!</string>
+    <string name="app_name">Client</string>
+    
+    <!-- Buttons -->
+    <string name="button_restaurant_menu">Menu</string>
+    <string name="button_change_language">Change Language</string>
+    <string name="button_exit">Exit</string>
+    
+</resources>

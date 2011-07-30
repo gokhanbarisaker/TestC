@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, TestCProject!</string>
-    <string name="app_name">TestCProject</string>
+    <string name="hello">Hello World, Client! (Default resource)</string>
+    <string name="app_name">Client</string>
+    <string name="package_name">com.visionbetalabs.client</string>
+    
+    <!-- Labels -->
+    <string name="main_menu_label">Main Menu</string>
+    <string name="language_selector_label">Language Selector</string>
+    <string name="restaurant_menu_label">Restaurant Menu</string>
+    
+    <!-- Buttons -->
+    <string name="button_restaurant_menu">Menu</string>
+    <string name="button_change_language">Change Language</string>
+    <string name="button_exit">Exit</string>
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Merhaba Dünya, Client!</string>
+    <string name="app_name">Client</string>
+    
+    <!-- Buttons -->
+    <string name="button_restaurant_menu">Menu</string>
+    <string name="button_change_language">Dil Değiştir</string>
+    <string name="button_exit">Çıkış</string>
+</resources>
