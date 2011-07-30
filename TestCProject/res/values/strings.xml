@@ -13,4 +13,6 @@
     <string name="button_restaurant_menu">Menu</string>
     <string name="button_change_language">Change Language</string>
     <string name="button_exit">Exit</string>
+
+    <!-- This comment is created in order to test fetch from upstream -->
 </resources>
