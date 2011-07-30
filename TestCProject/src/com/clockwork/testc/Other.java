@@ -1,5 +1,6 @@
 package com.clockwork.testc;
 
-public class Other {
+public class Other 
+{
 
 }
