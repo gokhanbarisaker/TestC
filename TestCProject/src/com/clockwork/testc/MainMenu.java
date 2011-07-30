@@ -39,7 +39,6 @@ import android.content.res.Configuration;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.ViewGroup;
 
 public class MainMenu extends Activity
 {
