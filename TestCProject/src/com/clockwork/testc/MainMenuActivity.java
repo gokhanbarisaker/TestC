@@ -40,7 +40,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 
-public class MainMenu extends Activity
+public class MainMenuActivity extends Activity
 {
 	private final String LOCALIZATION_DATA_LABEL = "com.visionbetalabs.client.language";
 	private final int LOCALIZATION_DATA_REQUEST_CODE = 0;
@@ -236,7 +236,7 @@ public class MainMenu extends Activity
 				case R.id.button_change_language:
 				{//If it is change language button,
 					//Start language selector activity
-					Intent chooseLanguage = new Intent(hostActivity, LanguageSelector.class);
+					Intent chooseLanguage = new Intent(hostActivity, LanguageSelectorActivity.class);
 			    	hostActivity.startActivityForResult(chooseLanguage, LOCALIZATION_DATA_REQUEST_CODE);
 					break;
 				}

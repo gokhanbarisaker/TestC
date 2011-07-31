@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 
-public class LanguageSelector extends Activity
+public class LanguageSelectorActivity extends Activity
 {
 	private final String LOCALIZATION_DATA_LABEL = "com.visionbetalabs.client.language";
 	

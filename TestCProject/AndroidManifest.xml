@@ -6,7 +6,7 @@
     <uses-sdk android:minSdkVersion="10" />
 
     <application android:icon="@drawable/icon" android:label="@string/app_name">
-        <activity android:name=".TestCProject"
+        <activity android:name=".TestCProjectActivity"
                   android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -14,15 +14,15 @@
             </intent-filter>
         </activity>
 		<activity 
-			android:name=".MainMenu"
+			android:name=".MainMenuActivity"
 			android:label="@string/main_menu_label"
 		/>
 		<activity 
-			android:name=".LanguageSelector"
+			android:name=".LanguageSelectorActivity"
 			android:label="@string/language_selector_label"
 		/>
 		<activity 
-			android:name=".RestaurantMenu"
+			android:name=".RestaurantMenuActivity"
 			android:label="@string/restaurant_menu_label"
 		/>
     </application>
